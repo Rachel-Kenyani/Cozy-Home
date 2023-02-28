@@ -1,0 +1,180 @@
+#picture{
+    background-image: url(/Images/first.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 20cm;
+    filter: brightness(70%);
+    color: white;
+}
+#cozy{
+    text-align: left;
+    padding-left: 5cm;
+    padding-top: 5px;
+    font-size: large;
+
+    
+}
+span{
+    color: #ffac7d;
+
+}
+.nav{
+    float: right;
+    display: flex;
+    color: #ffe5d6;
+
+}
+#shop{
+    padding-right: 2cm;
+    color: black; /*#ffe5d6; */
+    text-decoration: none;
+
+}
+#style{
+    padding-right: 2cm;
+    color: black; /*#ffe5d6; */
+    text-decoration: none;
+
+}
+#offers{
+    padding-right: 2cm;
+    color: black; /*#ffe5d6; */
+    text-decoration: none;
+
+}
+#search{
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-right: 10cm;
+    padding-bottom: 10px;
+    background-color: rgb(179, 177, 177);
+    /* text-decoration-color: black;   */
+}
+button{
+    border-radius: 5px;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    border: none;
+    background-color: #ffac7d;
+}
+.makeyourdream{
+    text-align: center;
+}
+h1{
+    padding-top: 4cm;
+}
+h2{
+    padding-left: 8cm;
+}
+.afterimage{
+    padding-top: 5cm;
+}
+.block1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8cm;
+    padding-right: 15cm;
+}
+#hr{
+    padding-left: 8cm;
+    padding-right: 15cm;
+    /* border: 3 solid #ffe5d6;
+    background-color: #ffe5d6;  */
+}
+.images2{
+    display: flex;
+    padding-left: 8cm;
+    padding-right: 10cm;
+}
+#second{
+    padding-right: 2cm;
+    width: 7cm;
+    height: 7cm;
+
+}
+#third{
+    padding-right: 2cm;
+    width: 7cm;
+    height: 7cm;
+    
+}
+#forth{
+    padding-right: 2cm;
+    width: 7cm;
+    height: 7cm;
+    
+}
+#rustic{
+    color: #ffe5d6;
+}
+#oak{
+    color: #ffe5d6;
+}
+#mustard{
+    color: #ffe5d6;
+}
+#popular{
+    color: #ffac7d;
+}
+#button2{
+    padding-left: 20cm;
+    padding-top: 3cm;
+}
+.blue{
+    
+    background-color: rgb(3, 21, 34);
+    padding-top: 3cm;
+}
+#popular{
+    color: #ffac7d;
+}
+.images3{
+    display: flex;
+    padding-left: 8cm;
+    padding-right: 10cm;
+    padding-top: 3cm;
+}
+#exploreall{
+    padding-left: 20cm; 
+}
+#find{
+    padding-left: 8cm;
+}
+h4{
+    text-decoration-line: underline;
+    padding-left: 8cm;
+}
+.pink{
+    border-style: solid 4cm;
+    margin-top: 5cm;
+    background-color: #ffe5d6;
+}
+.circle{
+    border-radius: 50%;
+    /* border-color: #e9b292; */
+    border: solid 10cm;
+}
+#eigth{
+    display: flex;
+    float: right;
+    padding-right: 10cm;
+    width: 25px;
+    height: 25px;
+    background-color: #ffe5d6;
+}
+#join{
+    text-align: center;
+    padding-left: 7cm;
+}
+#email{
+    padding-right: 5cm;
+    margin-right: 2cm;
+
+}
+.about{
+    display: flex;
+}
